@@ -3,7 +3,7 @@ const bodyParser = require("body-parser");
 const nodemailer = require("nodemailer");
 
 const app = express();
-const port = 5000;
+const port = process.env.PORT || 5000;
 
 // Middleware
 app.use(bodyParser.json());
