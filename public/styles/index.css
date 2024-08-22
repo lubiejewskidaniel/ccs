@@ -65,6 +65,11 @@ header {
 	text-transform: none;
 }
 
+#aboutUsContent p {
+	font-size: x-small;
+	text-transform: none;
+}
+
 .tooltip {
 	display: none;
 	position: absolute;
