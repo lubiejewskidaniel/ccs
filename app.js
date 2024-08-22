@@ -24,9 +24,8 @@ app.post("/send-email", (req, res) => {
 
 	// Email options
 	const mailOptions = {
-		from: "codeconsultingstudio@gmail.com", // must be your Gmail address
-		replyTo: email, // email of the user filling out the form
-		to: "codeconsultingstudio@gmail.com", // recipient email address (your email)
+		from: email,
+		to: "codeconsultingstudio@gmail.com", // recipient email address
 		subject: subject,
 		text: `Name: ${name}\nEmail: ${email}\nPhone Number: ${number}\n\nMessage:\n${message}`,
 	};
