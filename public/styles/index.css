@@ -314,14 +314,14 @@ h4 {
 	font-size: large;
 }
 
-.reivew .box {
+.review .box {
 	border-radius: 0.5rem;
 	background: #333;
 	padding: 2rem;
 	position: relative;
 }
 
-.reivew .box .fa-quote-right {
+.review .box .fa-quote-right {
 	position: absolute;
 	top: 2rem;
 	right: 2rem;
@@ -329,31 +329,31 @@ h4 {
 	font-size: 5rem;
 }
 
-.reivew .box .user {
+.review .box .user {
 	display: flex;
 	align-items: center;
 	gap: 1.5rem;
 	padding-bottom: 1rem;
 }
 
-.reivew .box .user img {
+.review .box .user img {
 	height: 7rem;
 	width: 7rem;
 	border-radius: 50%;
 	object-fit: cover;
 }
 
-.reivew .box .user h3 {
+.review .box .user h3 {
 	font-size: 2rem;
 	color: #fff;
 }
 
-.reivew .box .user span {
+.review .box .user span {
 	font-size: 1.5rem;
 	color: #eee;
 }
 
-.reivew .box p {
+.review .box p {
 	line-height: 2;
 	color: #eee;
 	padding: 0.5rem 0;
@@ -569,6 +569,30 @@ h4 {
 	color: black;
 	text-decoration: none;
 	cursor: pointer;
+}
+
+.color1 {
+	background: #3867d6;
+}
+
+.color2 {
+	background: #f7b731;
+}
+
+.color3 {
+	background: #ff0033;
+}
+
+.color4 {
+	background: #20bf6b;
+}
+
+.color5 {
+	background: #fa8231;
+}
+
+.color6 {
+	background: #fc427b;
 }
 
 /* Media query for smaller screens */
