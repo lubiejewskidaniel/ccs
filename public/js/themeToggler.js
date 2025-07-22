@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", () => {
 		// Add an onclick event to each theme button
 		btn.onclick = () => {
 			// Get the background color of the clicked button
-			let color = btn.style.background;
+			let color = window.getComputedStyle(btn).backgroundColor;
 			// Set the CSS variable --main-color to the selected color
 			document.querySelector(":root").style.setProperty("--main-color", color);
 		};
