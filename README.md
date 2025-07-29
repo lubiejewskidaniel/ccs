@@ -93,7 +93,7 @@ cd ccs
 ---
 
 ## 🔧 Planned Improvements
-- Add more options for Indyvidaul, bussiness, students, Networking for corporations
+- Add more options for Individual, Bussiness, Students, Networking for corporations
 - Add server-side form validation
 - Migrate layout to React/Next.js for scalability
 - Implement animations with IntersectionObserver or GSAP
