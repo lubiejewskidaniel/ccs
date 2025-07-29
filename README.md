@@ -12,7 +12,7 @@ Welcome to the official repository for **Code Consulting Studio**, a clean, resp
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
-- [Installation](#-installation)
+- [Installation](#installation)
 - [Planned Improvements](#-planned-improvements)
 - [Contact](#-contact)
 
