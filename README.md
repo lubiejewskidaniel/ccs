@@ -78,7 +78,7 @@ ccs/
 
 ---
 
-## ⚙️ Installation
+## 🖥️ Installation
 
 To run locally:
 
