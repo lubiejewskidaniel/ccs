@@ -81,17 +81,6 @@ npm run dev
 
 ---
 
-## 🚀 Usage
-
-Once the server is running at \`http://localhost:3000\`:
-
-- Navigate to \`/\` for the homepage
-- \`/services\` for consulting services
-- \`/portfolio\` to view previous work
-- \`/contact\` to submit a request or question
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions!
