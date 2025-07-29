@@ -8,13 +8,13 @@ Welcome to the official repository for **Code Consulting Studio**, a clean, resp
 
 ## 📌 Table of Contents
 
-- [Overview](#-overview)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Installation](#-installation)
-- [Planned Improvements](#-planned-improvements)
-- [Contact](#-contact)
+- [Overview](#overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [Planned Improvements](#planned-improvements)
+- [Contact](#contact)
 
 ---
 
