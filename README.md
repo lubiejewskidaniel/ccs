@@ -93,8 +93,8 @@ cd ccs
 ---
 
 ## 🔧 Planned Improvements
-
-- Add server-side email handling for contact form
+- Add more options for Indyvidaul, bussiness, students, Networking for corporations
+- Add server-side form validation
 - Migrate layout to React/Next.js for scalability
 - Implement animations with IntersectionObserver or GSAP
 - Add portfolio project filtering
@@ -108,7 +108,7 @@ If you're interested in working together or have questions, feel free to reach o
 
 📧 **LubiejewskiDaniel@gmail.com**  
 🌐 [www.codeconsultingstudio.com](https://www.codeconsultingstudio.com)  
-🔗 [GitHub Profile](https://github.com/lubiejewskidaniel)
+
 
 ---
 
