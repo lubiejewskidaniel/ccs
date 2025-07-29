@@ -10,7 +10,7 @@ and academic guidance for students, professionals, and institutions.
 
 ## 📌 Table of Contents
 
-- [About](#about)
+- [About](##about)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
 - [Project Structure](#project-structure)
