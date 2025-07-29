@@ -10,16 +10,16 @@ and academic guidance for students, professionals, and institutions.
 
 ## 📌 Table of Contents
 
-- [About](##about)
-- [Tech Stack](#tech-stack)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Pages Overview](#pages-overview)
-- [Contact Form](#contact-form)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [About](#-about)
+- [Tech Stack](#-tech-stack)
+- [Features](#-features)
+- [Project Structure](#-project-structure)
+- [Installation](#-installation)
+- [Pages Overview](#-pages-overview)
+- [Contact Form](#-contact-form)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Contact](#c-ontact)
 
 ---
 
