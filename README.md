@@ -10,17 +10,15 @@ and academic guidance for students, professionals, and institutions.
 
 ## 📌 Table of Contents
 
-- [About](#-about)
+- [Why This Project](#-why-this-project)
+- [Key Features](#-key-features)
 - [Tech Stack](#-tech-stack)
-- [Features](#-features)
 - [Project Structure](#-project-structure)
-- [Installation](#-installation)
-- [Pages Overview](#-pages-overview)
-- [Contact Form](#-contact-form)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#c-ontact)
-
+- [Goals Behind This Project](#-goals-behind-this-project)
+- [Next Steps / Improvements](#-next-steps--improvements)
+- [Let’s Work Together](#-lets-work-together)
+- [Contact Me](#-contact-me)
+- 
 ---
 
 ## 📖 About
