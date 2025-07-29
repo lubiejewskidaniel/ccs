@@ -1,4 +1,3 @@
-
 # 💼 Code Consulting Studio Website
 
 Welcome to the official repository for the **Code Consulting Studio** website — a modern, professional platform dedicated to providing high-quality software consulting 
@@ -10,15 +9,17 @@ and academic guidance for students, professionals, and institutions.
 
 ## 📌 Table of Contents
 
-- [Why This Project](#-why-this-project)
-- [Key Features](#-key-features)
+- [About](#-about)
 - [Tech Stack](#-tech-stack)
+- [Features](#-features)
 - [Project Structure](#-project-structure)
-- [Goals Behind This Project](#-goals-behind-this-project)
-- [Next Steps / Improvements](#-next-steps--improvements)
-- [Let’s Work Together](#-lets-work-together)
-- [Contact Me](#-contact-me)
-- 
+- [Installation](#-installation)
+- [Pages Overview](#-pages-overview)
+- [Contact Form](#-contact-form)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Contact](#c-ontact)
+
 ---
 
 ## 📖 About
@@ -50,7 +51,7 @@ This project is ideal for developers and agencies building small-to-medium servi
 
 ## 📁 Project Structure
 
-```bash
+bash
 code-consulting-studio/
 ├── public/                  # Static frontend assets (HTML, CSS, JS, images)
 │   └── index.html
@@ -66,7 +67,7 @@ code-consulting-studio/
 ├── .gitignore
 ├── package.json
 └── README.md
-```
+
 
 ---
 
@@ -74,7 +75,7 @@ code-consulting-studio/
 
 To run this project locally:
 
-```bash
+bash
 # 1. Clone the repository
 git clone https://github.com/YOUR_USERNAME/code-consulting-studio.git
 cd code-consulting-studio
@@ -84,7 +85,7 @@ npm install
 
 # 3. Run the development server
 npm run dev
-```
+
 
 ---
 
@@ -113,8 +114,8 @@ The contact form allows users to send inquiries.
 
 We welcome contributions!
 1. Fork the repo
-2. Create a branch: `git checkout -b feature/your-feature`
-3. Commit your changes: `git commit -m 'Add some feature'`
+2. Create a branch: git checkout -b feature/your-feature
+3. Commit your changes: git commit -m 'Add some feature'
 4. Push and create a pull request
 
 ---
