@@ -1,133 +1,115 @@
-# 💼 Code Consulting Studio Website
+# 💼 Code Consulting Studio (CCS) – Professional Web Presence
 
-Welcome to the official repository for the **Code Consulting Studio** website — a modern, professional platform dedicated to providing high-quality software consulting 
-and academic guidance for students, professionals, and institutions.
+Welcome to the official repository for **Code Consulting Studio**, a clean, responsive, and modern web application built to showcase consulting services and enable easy contact from potential clients.
 
-🌐 [Visit the Live Website »](https://www.codeconsultingstudio.com)
+🌐 **Live Site:** [https://www.codeconsultingstudio.com](https://www.codeconsultingstudio.com)
 
 ---
 
 ## 📌 Table of Contents
 
-- [About](#-about)
-- [Tech Stack](#-tech-stack)
+- [Overview](#-overview)
 - [Features](#-features)
+- [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
 - [Installation](#-installation)
-- [Pages Overview](#-pages-overview)
-- [Contact Form](#-contact-form)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#c-ontact)
+- [Planned Improvements](#-planned-improvements)
+- [Contact](#-contact)
 
 ---
 
-## 📖 About
+## 📖 Overview
 
-**Code Consulting Studio** is a clean, minimalistic, and responsive website that showcases consulting services, portfolios, and contact functionalities for clients in need of code and academic assistance. 
-This project is ideal for developers and agencies building small-to-medium service-based websites.
+**Code Consulting Studio** is designed to serve as a personal or small-business landing page. It allows freelancers and consulting professionals to present services, portfolio samples, and a simple contact form — all in a visually modern and mobile-optimized interface.
 
----
-
-## 🧰 Tech Stack
-
-| Layer        | Technology         |
-|--------------|--------------------|
-| **Frontend** | HTML5, CSS3, JavaScript (Vanilla) |
-| **Backend**  | None (static site) |
-| **Hosting**  | VPS |
+This is a front-end focused project with lightweight JavaScript interactivity and custom CSS styling.
 
 ---
 
 ## 🌟 Features
 
-- Responsive modern UI design
-- About, Services, and Portfolio pages
-- Contact form with email integration
-- Simple and modular file structure
-- SEO-friendly metadata
+- 📱 Fully responsive across devices
+- 🎨 Custom UI with modern CSS design
+- 📩 Functional contact form (frontend-ready)
+- 🌙 Dark mode toggle
+- 🎥 Embedded background video & media support
+- 🧠 Modular file structure for maintainability
+- 🖼️ SEO-ready meta tags and favicon assets
+
+---
+
+## 🚀 Tech Stack
+
+| Layer         | Technology           |
+|---------------|----------------------|
+| Frontend      | HTML5, CSS3, JavaScript |
+| Interactivity | Vanilla JS (slider, theme toggle, form validation) |
+| Hosting       | Custom VPS |
+| Media         | MP4, JPG, PNG, SVG for branding and banners |
 
 ---
 
 ## 📁 Project Structure
 
-bash
-code-consulting-studio/
-├── public/                  # Static frontend assets (HTML, CSS, JS, images)
-│   └── index.html
-├── src/
-│   ├── controllers/         # Reserved for future enhancements
-│   ├── models/              # Not used (no DB)
-│   ├── routes/              # Reserved for future enhancements
-│   ├── utils/               # Helper functions (if any)
-│   └── app.js               # Entry point (placeholder)
-├── config/                  # Configuration files
-│   └── db.js                # Placeholder for database config
-├── .env                     # Environment variables
+```bash
+ccs/
+├── app.js                     # (Optional entry point if extended)
+├── package.json               # Project metadata
+├── public/
+│   ├── index.html             # Main landing page
+│   ├── styles/
+│   │   └── index.css          # Custom site-wide CSS
+│   ├── js/                    # All JS components
+│   │   ├── formHandler.js     # Validates and submits contact form
+│   │   ├── indexForm.js       # Handles form UI behavior
+│   │   ├── button.js          # Button animations
+│   │   ├── slider.js          # Image/content slider
+│   │   └── themeToggler.js    # Light/dark mode switch
+│   ├── media/                 # Embedded video & images
+│   │   ├── Delivering Technology.mp4
+│   │   └── deltech.jpg
+│   ├── img/
+│   │   └── og.png             # Open Graph sharing image
+│   ├── fav/                   # Favicon and app icon assets
+│   └── manifest.json          # Web app manifest
 ├── .gitignore
-├── package.json
-└── README.md
-
+└── README.md                  # Project documentation
+```
 
 ---
 
 ## ⚙️ Installation
 
-To run this project locally:
+To run locally:
 
-bash
-# 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/code-consulting-studio.git
-cd code-consulting-studio
+```bash
+git clone https://github.com/lubiejewskidaniel/ccs.git
+cd ccs
+# Open public/index.html directly in your browser
+```
 
-# 2. Install dependencies (if any)
-npm install
-
-# 3. Run the development server
-npm run dev
-
+> No build process or server is required. The project runs fully static via HTML/CSS/JS.
 
 ---
 
-## 🗂️ Pages Overview
+## 🔧 Planned Improvements
 
-The website includes:
-
-- **Home** – Intro and call-to-action
-- **About** – Who we are and what we offer
-- **Services** – Consulting, tutoring, and technical help
-- **Portfolio** – Samples of completed student or client projects
-- **Contact** – Form to request support or project collaboration
-
----
-
-## 📬 Contact Form
-
-The contact form allows users to send inquiries.
-
-- Uses static HTML form submission
-- No backend API is involved
-
----
-
-## 🤝 Contributing
-
-We welcome contributions!
-1. Fork the repo
-2. Create a branch: git checkout -b feature/your-feature
-3. Commit your changes: git commit -m 'Add some feature'
-4. Push and create a pull request
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License.
+- Add server-side email handling for contact form
+- Migrate layout to React/Next.js for scalability
+- Implement animations with IntersectionObserver or GSAP
+- Add portfolio project filtering
+- Lighthouse performance tuning for production
 
 ---
 
 ## 📬 Contact
 
-Have questions or need help?
+If you're interested in working together or have questions, feel free to reach out:
 
-🌐 [https://www.codeconsultingstudio.com](https://www.codeconsultingstudio.com)
+📧 **LubiejewskiDaniel@gmail.com**  
+🌐 [www.codeconsultingstudio.com](https://www.codeconsultingstudio.com)  
+🔗 [GitHub Profile](https://github.com/lubiejewskidaniel)
+
+---
+
+> Project developed as a personal branding initiative — designed to reflect real-world consulting agency standards and attention to detail.
